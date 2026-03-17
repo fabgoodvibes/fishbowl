@@ -4,7 +4,7 @@
 
 # Fishbowl
 
-**Fully verifiable, reproducible AI training from layer zero.**
+**Fully verifiable, reproducible AI LLM training from layer zero.**
 
 Fishbowl is a research initiative to build LLM training pipelines where any technically capable third party can independently reproduce the exact model weights — verified by sha256 fingerprint — from source, using public tools, a public dataset, and a public build environment.
 

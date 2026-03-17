@@ -1,5 +1,3 @@
-> Original blog post: [Toward Fully Verifiable, Reproducible AI](https://fabiopedrazzoliblog.wordpress.com/2026/03/15/toward-fully-verifiable-reproducible-ai/)
-
 <p align="center">
   <img src="image.png" alt="Fishbowl logo" width="200">
 </p>
@@ -7,6 +5,8 @@
 # Fishbowl
 
 **Fully verifiable, reproducible AI LLM training from layer zero.**
+
+> Original blog post: [Toward Fully Verifiable, Reproducible AI](https://fabiopedrazzoliblog.wordpress.com/2026/03/15/toward-fully-verifiable-reproducible-ai/)
 
 Fishbowl is a research initiative to build LLM training pipelines where any technically capable third party can independently reproduce the exact model weights — verified by sha256 fingerprint — from source, using public tools, a public dataset, and a public build environment.
 

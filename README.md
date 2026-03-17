@@ -1,3 +1,5 @@
+> Original blog post: [Toward Fully Verifiable, Reproducible AI](https://fabiopedrazzoliblog.wordpress.com/2026/03/15/toward-fully-verifiable-reproducible-ai/)
+
 <p align="center">
   <img src="image.png" alt="Fishbowl logo" width="200">
 </p>

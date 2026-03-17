@@ -1,35 +1,21 @@
-# Python
+# Python-generated files
 __pycache__/
-*.py[cod]
-*.egg-info/
-dist/
+*.py[oc]
 build/
-.eggs/
-*.egg
-venv/
-.venv/
+dist/
+wheels/
+*.egg-info
 
-# Training artifacts
-*.bin
-*.pt
-*.safetensors
-*.ckpt
-checkpoints/
-output/
+# Virtual environments
+.venv
 
-# Docker
-.docker/
+# Results
+results/
+results.tsv
 
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
+# Agent prompt files
+CLAUDE.md
+AGENTS.md
 
-# OS
-.DS_Store
-Thumbs.db
-
-# Environment
-.env
-.env.local
+# Experimental
+dev/

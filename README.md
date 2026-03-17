@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="image.png" alt="Fishbowl logo" width="200">
+</p>
+
 # Fishbowl
 
 **Fully verifiable, reproducible AI training from layer zero.**
